@@ -107,7 +107,7 @@ I’m passionate about creating clean, maintainable code and exploring the inter
 
 ### ⚡ Fun Fact
 
-**I enjoy watching anime and can balance work with entertainment to stay creative and focused.**
+**I Hate naming things.**
 
 ---
 
