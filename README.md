@@ -46,7 +46,7 @@ I’m passionate about creating clean, maintainable code and exploring the inter
 - Django  
 - FastAPI  
 - RESTful APIs  
-- MongoDB / PostgreSQL  
+- MongoDB / PostgreSQL / Sql
 - API documentation with Swagger / Postman
 
 ---
